@@ -1,0 +1,1 @@
+# setup-spot-gomplate
